@@ -4,6 +4,12 @@
 
 Based on the game [Snake](https://github.com/KyrosDigital/SnakeGame).
 
+## Greetz
+
+* [AlissonB](mailto:alisson@bertochi.com.br)
+* [WatsonMaster](mailto:watsonmaster@gmail.com)
+* [MarlonD](mailto:marlon.d@outlook.com)
+
 ## Challange Description
 
 Do you know the Super Gravitron by VVVVVV (https://www.youtube.com/watch?v=CQ-3-K1Ro2g)? Yes, Terry Cavanagh is a genius! And the bavs tasked with recruiting new programmers made a version of this game that runs on the console, and use it in their recruitment program! We're trying to infiltrate their IT sector, so we need your programming skills to beat the game, by creating a bot that can last 137 seconds in it!
